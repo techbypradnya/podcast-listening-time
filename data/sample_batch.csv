@@ -1,0 +1,501 @@
+id,Podcast_Name,Episode_Title,Episode_Length_minutes,Genre,Host_Popularity_percentage,Publication_Day,Publication_Time,Guest_Popularity_percentage,Number_of_Ads,Episode_Sentiment
+0,Mind & Body,Episode 44,43.03,Health,87.78,Friday,Morning,38.24,0.0,Neutral
+1,Fashion Forward,Episode 53,115.64,Lifestyle,63.11,Thursday,Afternoon,48.45,0.0,Negative
+2,Funny Folks,Episode 86,75.94,Comedy,73.06,Tuesday,Night,26.64,2.0,Negative
+3,Code Corner,Episode 50,5.0,Technology,55.64,Wednesday,Evening,64.05,1.0,Positive
+4,Style Guide,Episode 3,45.9,Lifestyle,51.44,Friday,Evening,37.08,0.0,Negative
+5,Tech Trends,Episode 48,80.92,Education,21.85,Monday,Evening,44.84,0.0,Positive
+6,Learning Lab,Episode 65,77.59,Education,75.22,Wednesday,Afternoon,,1.0,Neutral
+7,Game Day,Episode 84,101.85,Sports,82.96,Thursday,Night,94.45,3.0,Positive
+8,Wellness Wave,Episode 79,73.06,Health,72.95,Sunday,Morning,0.0,3.0,Positive
+9,Style Guide,Episode 83,57.37,Lifestyle,40.39,Monday,Morning,43.76,1.0,Positive
+10,Unsolved Tales,Episode 27,59.75,True Crime,44.14,Wednesday,Afternoon,0.0,0.0,Neutral
+11,Study Sessions,Episode 4,73.74,Lifestyle,,Monday,Afternoon,,2.0,Positive
+12,Game Day,Episode 26,81.32,Sports,53.82,Monday,Night,22.03,3.0,Positive
+13,Daily Digest,Episode 1,45.8,News,91.38,Wednesday,Morning,,0.0,Positive
+14,Comedy Corner,Episode 36,55.22,True Crime,74.1,Sunday,Afternoon,31.93,0.0,Positive
+15,Education Station,Episode 49,,Education,42.94,Saturday,Afternoon,105.78,0.0,Positive
+16,Learning Lab,Episode 86,69.32,Education,25.11,Wednesday,Afternoon,97.16,3.0,Neutral
+17,Giggle Garage,Episode 78,61.85,Comedy,64.87,Saturday,Night,31.1,2.0,Positive
+18,Fashion Forward,Episode 37,90.18,Lifestyle,69.61,Thursday,Afternoon,,2.0,Positive
+19,Wellness Wave,Episode 11,,Health,53.67,Tuesday,Night,69.67,1.0,Neutral
+20,Business Insights,Episode 20,83.14,Technology,50.75,Saturday,Morning,60.27,2.0,Positive
+21,Cold Case Files,Episode 64,101.7,True Crime,46.6,Sunday,Afternoon,27.52,0.0,Negative
+22,Funny Folks,Episode 57,64.78,Music,53.65,Wednesday,Evening,45.15,1.0,Negative
+23,Pitch Perfect,Episode 70,62.29,Lifestyle,36.51,Wednesday,Afternoon,,3.0,Neutral
+24,Market Watch,Episode 87,,Business,64.37,Wednesday,Night,,0.0,Positive
+25,Learning Lab,Episode 70,53.99,Comedy,68.49,Saturday,Night,,0.0,Positive
+26,Current Affairs,Episode 60,45.15,News,64.87,Wednesday,Afternoon,58.94,1.0,Neutral
+27,Learning Lab,Episode 82,95.0,Education,61.8,Saturday,Afternoon,13.54,2.0,Negative
+28,Pitch Perfect,Episode 51,,Sports,88.83,Tuesday,Afternoon,75.87,3.0,Negative
+29,Giggle Garage,Episode 17,56.46,Comedy,52.64,Friday,Afternoon,66.87,1.0,Positive
+30,Wellness Wave,Episode 98,97.43,Health,59.39,Friday,Afternoon,,0.0,Negative
+31,Tech Trends,Episode 84,62.69,Music,99.54,Thursday,Night,,2.0,Neutral
+32,Giggle Garage,Episode 88,81.55,Comedy,26.32,Monday,Afternoon,,1.0,Negative
+33,History Hour,Episode 71,54.22,Music,12.41,Thursday,Evening,67.99,0.0,Negative
+34,Sleep Society,Episode 69,76.6,Health,70.58,Thursday,Afternoon,62.38,0.0,Positive
+35,Cold Case Files,Episode 91,59.72,True Crime,53.86,Tuesday,Morning,,1.0,Positive
+36,Tech Trends,Episode 18,103.58,Technology,102.89,Monday,Afternoon,35.79,0.0,Negative
+37,Game Day,Episode 19,71.96,Sports,81.14,Monday,Afternoon,82.88,0.0,Negative
+38,Funny Folks,Episode 84,22.89,True Crime,76.39,Sunday,Night,38.11,3.0,Negative
+39,Sleep Society,Episode 62,,Health,77.67,Wednesday,Morning,69.91,1.0,Negative
+40,Fitness First,Episode 72,27.1,Health,35.46,Tuesday,Evening,34.05,3.0,Neutral
+41,Fitness First,Episode 38,81.18,Health,61.26,Saturday,Evening,35.57,0.0,Positive
+42,Sport Spot,Episode 77,88.59,Sports,106.16,Friday,Night,71.65,1.0,Negative
+43,Cold Case Files,Episode 43,72.72,True Crime,30.2,Sunday,Morning,107.15,0.0,Positive
+44,Dark Corners,Episode 76,49.84,True Crime,58.03,Tuesday,Morning,,1.0,Neutral
+45,Home Harmony,Episode 99,30.83,Lifestyle,35.02,Wednesday,Afternoon,52.99,1.0,Negative
+46,Music Matters,Episode 58,63.61,Music,,Wednesday,Night,72.52,1.0,Neutral
+47,Cold Case Files,Episode 21,45.0,True Crime,80.01,Saturday,Morning,,0.0,Negative
+48,True Crime Tonight,Episode 81,92.9,Business,37.52,Sunday,Night,58.38,2.0,Positive
+49,Dark Corners,Episode 98,53.3,Music,58.68,Thursday,Morning,39.37,2.0,Negative
+50,Code Corner,Episode 42,78.71,Technology,90.02,Saturday,Night,12.17,3.0,Neutral
+51,Gadget Geeks,Episode 15,50.61,Technology,60.87,Tuesday,Evening,100.32,0.0,Negative
+52,Style Guide,Episode 28,,Health,35.02,Wednesday,Morning,43.71,1.0,Positive
+53,Silicon Stories,Episode 15,34.53,Sports,69.36,Wednesday,Morning,,2.0,Positive
+54,Sports Weekly,Episode 65,54.35,News,103.94,Wednesday,Evening,42.24,3.0,Negative
+55,News Roundup,Episode 59,82.4,Sports,27.21,Thursday,Morning,25.76,0.0,Positive
+56,Money Matters,Episode 61,115.29,Business,48.7,Saturday,Evening,44.47,1.0,Positive
+57,Money Matters,Episode 44,,Business,52.21,Tuesday,Morning,,1.0,Neutral
+58,Silicon Stories,Episode 39,26.86,Technology,70.56,Friday,Afternoon,60.78,2.0,Negative
+59,Laugh Line,Episode 85,79.11,Education,65.68,Friday,Night,6.26,2.0,Positive
+60,Game Day,Episode 23,,Sports,72.34,Tuesday,Evening,,2.0,Positive
+61,Brain Boost,Episode 54,90.2,Education,101.65,Sunday,Evening,,2.0,Positive
+62,Music Matters,Episode 83,86.49,Lifestyle,57.83,Saturday,Night,70.92,0.0,Neutral
+63,Lifestyle Lounge,Episode 92,,Lifestyle,39.63,Thursday,Night,16.16,0.0,Neutral
+64,Home Harmony,Episode 59,72.86,Lifestyle,60.95,Monday,Evening,84.88,2.0,Positive
+65,Code Corner,Episode 47,80.33,Technology,93.55,Thursday,Morning,65.7,2.0,Neutral
+66,Tune Town,Episode 42,71.38,Music,54.89,Friday,Afternoon,49.69,0.0,Neutral
+67,Wellness Wave,Episode 87,74.13,Health,74.43,Tuesday,Morning,49.13,1.0,Negative
+68,Money Matters,Episode 20,87.62,Health,62.21,Saturday,Evening,25.43,1.0,Positive
+69,Lifestyle Lounge,Episode 85,5.0,Lifestyle,54.72,Sunday,Evening,40.62,2.0,Negative
+70,Home Harmony,Episode 65,5.0,Sports,49.54,Friday,Evening,115.77,2.0,Positive
+71,Silicon Stories,Episode 39,29.31,Business,79.8,Tuesday,Evening,,3.0,Negative
+72,Mind & Body,Episode 54,67.59,Health,47.25,Monday,Evening,32.67,1.0,Neutral
+73,Laugh Line,Episode 87,53.32,Comedy,54.28,Friday,Afternoon,67.35,0.0,Negative
+74,Daily Digest,Episode 13,24.99,Sports,20.05,Friday,Night,59.79,1.0,Neutral
+75,Mind & Body,Episode 70,113.6,Health,53.72,Monday,Morning,24.19,3.0,Positive
+76,Gadget Geeks,Episode 18,58.77,Technology,54.48,Saturday,Night,42.26,1.0,Negative
+77,Brain Boost,Episode 2,70.89,True Crime,,Sunday,Night,20.58,2.0,Positive
+78,Lifestyle Lounge,Episode 58,93.02,True Crime,46.21,Saturday,Evening,103.73,3.0,Positive
+79,Giggle Garage,Episode 51,120.0,Comedy,28.71,Thursday,Evening,67.75,2.0,Negative
+80,Learning Lab,Episode 68,63.22,Education,66.5,Sunday,Morning,24.72,0.0,Positive
+81,Giggle Garage,Episode 2,70.56,Comedy,71.25,Monday,Evening,52.98,1.0,Neutral
+82,Laugh Line,Episode 29,,Comedy,42.44,Sunday,Morning,94.85,3.0,Neutral
+83,Byte Size,Episode 6,63.57,Technology,63.54,Wednesday,Afternoon,61.21,1.0,Positive
+84,Music Matters,Episode 79,27.18,Music,47.41,Saturday,Evening,53.54,3.0,Positive
+85,Style Guide,Episode 34,51.4,Lifestyle,53.81,Sunday,Evening,61.73,0.0,Neutral
+86,Healthy Living,Episode 74,87.86,Health,61.06,Saturday,Morning,23.8,0.0,Neutral
+87,Future Forward,Episode 18,75.73,Technology,45.27,Sunday,Evening,67.5,0.0,Negative
+88,Melody Mix,Episode 31,,Music,34.68,Thursday,Night,18.1,2.0,Negative
+89,Style Guide,Episode 56,72.54,Lifestyle,101.76,Saturday,Night,,1.0,Positive
+90,World Watch,Episode 19,99.97,News,54.09,Saturday,Morning,93.03,1.0,Positive
+91,Byte Size,Episode 90,35.53,Technology,62.99,Saturday,Afternoon,49.04,1.0,Positive
+92,History Hour,Episode 76,101.5,Education,87.99,Thursday,Evening,69.56,2.0,Neutral
+93,Sleep Society,Episode 14,47.84,Health,83.54,Tuesday,Evening,34.84,1.0,Neutral
+94,Money Matters,Episode 71,53.68,Business,35.8,Thursday,Morning,63.87,2.0,Neutral
+95,Game Day,Episode 54,55.61,Sports,46.73,Wednesday,Morning,24.99,1.0,Negative
+96,Education Station,Episode 44,119.95,Education,119.0,Thursday,Night,0.0,0.0,Neutral
+97,Brain Boost,Episode 48,42.34,Education,60.28,Sunday,Night,57.01,0.0,Positive
+98,Funny Folks,Episode 62,79.44,Sports,77.31,Saturday,Evening,70.56,0.0,Negative
+99,Byte Size,Episode 7,77.55,Technology,65.22,Sunday,Morning,43.43,2.0,Neutral
+100,Startup Stories,Episode 71,67.91,Business,53.25,Wednesday,Evening,33.15,1.0,Neutral
+101,History Hour,Episode 66,,Education,59.66,Wednesday,Night,,0.0,Positive
+102,Career Compass,Episode 60,30.61,Business,64.7,Wednesday,Night,65.96,3.0,Negative
+103,Giggle Garage,Episode 58,30.43,Comedy,66.31,Friday,Evening,94.79,3.0,Negative
+104,Fashion Forward,Episode 41,,Health,1.0,Saturday,Morning,78.59,1.0,Positive
+105,Home Harmony,Episode 72,41.26,Sports,46.58,Wednesday,Night,70.79,3.0,Positive
+106,Sports Weekly,Episode 30,28.62,Sports,40.28,Wednesday,Morning,30.16,1.0,Positive
+107,Business Insights,Episode 29,93.62,Technology,15.79,Monday,Night,35.65,2.0,Negative
+108,Fashion Forward,Episode 71,83.39,Technology,37.42,Friday,Afternoon,,3.0,Positive
+109,Tech Trends,Episode 30,63.87,Technology,7.51,Sunday,Night,,1.0,Neutral
+110,Tech Trends,Episode 99,49.02,Technology,99.29,Tuesday,Morning,58.72,0.0,Negative
+111,Game Day,Episode 46,,Lifestyle,46.74,Monday,Evening,101.6,1.0,Positive
+112,Comedy Corner,Episode 77,41.37,Comedy,46.6,Saturday,Afternoon,,0.0,Negative
+113,Wellness Wave,Episode 50,59.57,Health,75.31,Thursday,Evening,43.03,1.0,Negative
+114,Sports Weekly,Episode 25,32.47,Comedy,52.64,Sunday,Morning,12.93,3.0,Neutral
+115,Style Guide,Episode 67,32.51,Lifestyle,73.22,Thursday,Afternoon,49.04,1.0,Positive
+116,Tune Town,Episode 78,120.0,Music,50.25,Friday,Morning,32.11,1.0,Negative
+117,World Watch,Episode 61,13.46,True Crime,56.04,Monday,Evening,116.64,3.0,Negative
+118,Melody Mix,Episode 100,73.44,Lifestyle,50.04,Wednesday,Afternoon,,0.0,Negative
+119,News Roundup,Episode 31,40.49,News,78.19,Monday,Afternoon,58.34,3.0,Neutral
+120,Money Matters,Episode 69,70.19,Sports,45.38,Sunday,Night,56.04,1.0,Positive
+121,Sports Weekly,Episode 69,27.96,Sports,1.0,Monday,Night,,1.0,Positive
+122,Giggle Garage,Episode 70,,Comedy,59.51,Tuesday,Night,,3.0,Positive
+123,History Hour,Episode 49,54.26,Education,80.53,Wednesday,Night,40.99,3.0,Negative
+124,Startup Stories,Episode 9,115.6,Business,41.41,Tuesday,Night,,0.0,Positive
+125,Market Watch,Episode 8,105.35,Business,33.53,Wednesday,Afternoon,32.28,1.0,Neutral
+126,Business Insights,Episode 42,36.98,Music,43.94,Thursday,Afternoon,21.9,2.0,Neutral
+127,Tech Trends,Episode 58,34.03,Health,4.48,Friday,Morning,84.52,0.0,Positive
+128,Learning Lab,Episode 60,24.95,Education,34.13,Monday,Night,33.83,1.0,Positive
+129,Funny Folks,Episode 56,34.4,Comedy,40.47,Tuesday,Morning,,0.0,Negative
+130,Cold Case Files,Episode 19,101.24,True Crime,,Tuesday,Afternoon,69.54,3.0,Negative
+131,Home Harmony,Episode 54,113.21,Lifestyle,47.15,Thursday,Night,107.52,0.0,Negative
+132,News Roundup,Episode 8,,News,74.5,Thursday,Afternoon,54.13,1.0,Neutral
+133,Lifestyle Lounge,Episode 23,97.12,Lifestyle,26.73,Friday,Night,60.82,0.0,Positive
+134,World Watch,Episode 91,,Sports,115.04,Tuesday,Morning,,1.0,Neutral
+135,Pitch Perfect,Episode 3,,True Crime,37.9,Wednesday,Night,86.97,0.0,Negative
+136,Mystery Matters,Episode 13,59.99,True Crime,33.99,Friday,Morning,27.32,3.0,Negative
+137,Sport Spot,Episode 11,88.23,Sports,88.23,Wednesday,Night,57.3,0.0,Positive
+138,Music Matters,Episode 18,,Lifestyle,32.23,Sunday,Night,92.73,2.0,Positive
+139,Mind & Body,Episode 27,,Health,64.32,Saturday,Night,11.58,3.0,Positive
+140,Startup Stories,Episode 18,45.98,News,119.0,Sunday,Evening,69.94,1.0,Positive
+141,Money Matters,Episode 94,89.11,Business,45.8,Tuesday,Evening,0.0,0.0,Positive
+142,True Crime Tonight,Episode 81,87.02,Lifestyle,13.46,Saturday,Afternoon,,1.0,Neutral
+143,Mind & Body,Episode 77,95.07,Health,59.02,Friday,Night,38.11,1.0,Negative
+144,World Watch,Episode 4,83.98,News,42.39,Saturday,Morning,,1.0,Positive
+145,True Crime Tonight,Episode 16,75.5,Education,36.41,Monday,Morning,60.16,0.0,Negative
+146,Future Forward,Episode 40,40.14,Technology,69.73,Tuesday,Afternoon,50.71,0.0,Neutral
+147,Pitch Perfect,Episode 78,72.7,News,81.31,Tuesday,Evening,,0.0,Neutral
+148,Learning Lab,Episode 50,53.71,Education,67.41,Monday,Afternoon,36.18,2.0,Neutral
+149,Tune Town,Episode 15,49.08,Health,65.94,Saturday,Morning,23.18,1.0,Positive
+150,Wellness Wave,Episode 95,5.0,Comedy,23.01,Monday,Night,5.98,1.0,Positive
+151,Melody Mix,Episode 20,,Music,45.63,Friday,Morning,55.83,1.0,Negative
+152,Fitness First,Episode 2,35.65,Health,76.42,Sunday,Evening,113.89,0.0,Negative
+153,Sport Spot,Episode 24,63.9,Music,32.09,Tuesday,Morning,71.63,2.0,Neutral
+154,Cold Case Files,Episode 32,120.0,Lifestyle,68.14,Friday,Morning,,1.0,Neutral
+155,Tune Town,Episode 48,92.23,Music,36.56,Wednesday,Morning,0.0,0.0,Neutral
+156,Giggle Garage,Episode 84,50.79,Comedy,78.42,Tuesday,Night,82.85,2.0,Positive
+157,Life Lessons,Episode 40,120.0,Lifestyle,36.72,Sunday,Night,93.31,0.0,Negative
+158,Startup Stories,Episode 79,,True Crime,75.48,Friday,Night,37.05,3.0,Positive
+159,Funny Folks,Episode 12,39.79,Comedy,75.43,Sunday,Morning,21.09,3.0,Neutral
+160,Daily Digest,Episode 29,51.33,News,58.5,Monday,Night,9.83,0.0,Negative
+161,Funny Folks,Episode 67,96.52,Comedy,53.68,Saturday,Evening,8.47,2.0,Neutral
+162,Dark Corners,Episode 34,90.54,True Crime,28.81,Sunday,Evening,60.79,2.0,Neutral
+163,Fitness First,Episode 14,77.47,Music,26.4,Sunday,Afternoon,79.15,1.0,Negative
+164,Pitch Perfect,Episode 88,28.83,True Crime,106.59,Tuesday,Evening,,0.0,Positive
+165,Pitch Perfect,Episode 22,62.31,Sports,38.35,Monday,Night,96.99,3.0,Positive
+166,Study Sessions,Episode 1,,Education,13.22,Wednesday,Morning,52.09,1.0,Negative
+167,Fashion Forward,Episode 33,,Lifestyle,64.36,Friday,Evening,43.34,1.0,Positive
+168,Cold Case Files,Episode 25,,True Crime,,Sunday,Afternoon,43.22,0.0,Negative
+169,Sport Spot,Episode 27,,Sports,59.76,Monday,Evening,50.09,0.0,Neutral
+170,Fitness First,Episode 96,58.72,Health,57.02,Sunday,Night,114.68,2.0,Negative
+171,Mind & Body,Episode 96,80.69,Health,29.44,Monday,Night,69.8,2.0,Neutral
+172,Current Affairs,Episode 86,10.65,News,10.4,Monday,Afternoon,75.22,1.0,Positive
+173,Sleep Society,Episode 25,53.05,Health,56.09,Wednesday,Evening,96.68,0.0,Neutral
+174,Sleep Society,Episode 37,61.45,Health,84.6,Wednesday,Night,31.25,2.0,Negative
+175,Music Matters,Episode 34,76.0,Music,48.55,Wednesday,Night,117.85,1.0,Negative
+176,Dark Corners,Episode 12,63.17,True Crime,62.54,Tuesday,Night,26.22,2.0,Negative
+177,Music Matters,Episode 13,57.75,Music,74.75,Monday,Night,,2.0,Negative
+178,Mind & Body,Episode 95,,Health,43.59,Saturday,Night,,0.0,Negative
+179,Career Compass,Episode 95,67.44,True Crime,39.23,Monday,Evening,58.86,0.0,Neutral
+180,Brain Boost,Episode 21,81.04,Education,44.08,Friday,Evening,69.16,3.0,Negative
+181,True Crime Tonight,Episode 17,76.76,True Crime,77.29,Friday,Night,42.09,2.0,Neutral
+182,Game Day,Episode 50,94.99,Sports,68.65,Wednesday,Evening,39.89,0.0,Positive
+183,Study Sessions,Episode 64,52.57,Lifestyle,63.27,Sunday,Afternoon,59.26,2.0,Neutral
+184,Joke Junction,Episode 85,,Sports,28.24,Monday,Morning,44.7,2.0,Positive
+185,Melody Mix,Episode 73,19.4,Music,100.84,Thursday,Evening,,2.0,Negative
+186,Fashion Forward,Episode 29,,Lifestyle,58.8,Monday,Night,61.23,1.0,Positive
+187,Joke Junction,Episode 8,108.07,Comedy,51.55,Tuesday,Evening,71.36,3.0,Positive
+188,Music Matters,Episode 17,38.59,Technology,72.85,Saturday,Night,57.69,1.0,Neutral
+189,Learning Lab,Episode 69,86.47,Education,72.85,Thursday,Morning,21.43,2.0,Positive
+190,Pitch Perfect,Episode 63,46.35,Sports,54.83,Sunday,Afternoon,49.63,0.0,Negative
+191,Dark Corners,Episode 55,,True Crime,72.66,Saturday,Night,,3.0,Positive
+192,Learning Lab,Episode 32,19.06,Comedy,102.37,Thursday,Evening,61.31,3.0,Positive
+193,Tune Town,Episode 73,118.29,Music,70.94,Sunday,Morning,72.46,3.0,Negative
+194,Lifestyle Lounge,Episode 75,,Sports,52.45,Thursday,Night,,0.0,Neutral
+195,Learning Lab,Episode 73,43.79,Education,33.21,Monday,Evening,57.61,1.0,Positive
+196,Life Lessons,Episode 5,34.72,Lifestyle,32.9,Thursday,Night,,0.0,Positive
+197,Vinyl Vibes,Episode 47,16.94,Music,39.32,Wednesday,Night,35.02,2.0,Negative
+198,Mind & Body,Episode 71,72.35,Health,43.35,Tuesday,Afternoon,,0.0,Neutral
+199,Daily Digest,Episode 83,71.82,News,28.91,Monday,Night,,3.0,Neutral
+200,Cold Case Files,Episode 33,83.08,True Crime,50.8,Sunday,Afternoon,32.47,1.0,Negative
+201,Joke Junction,Episode 13,79.04,Music,54.08,Wednesday,Evening,48.96,1.0,Negative
+202,Joke Junction,Episode 15,36.29,Business,33.49,Tuesday,Afternoon,,2.0,Neutral
+203,True Crime Tonight,Episode 84,98.19,True Crime,17.92,Thursday,Afternoon,65.11,3.0,Negative
+204,Current Affairs,Episode 1,112.96,News,78.58,Tuesday,Morning,53.41,2.0,Positive
+205,Unsolved Tales,Episode 66,56.59,True Crime,74.49,Saturday,Night,21.68,1.0,Neutral
+206,News Roundup,Episode 18,48.24,Health,50.07,Sunday,Afternoon,82.05,1.0,Neutral
+207,Learning Lab,Episode 51,59.27,Education,58.37,Tuesday,Afternoon,,2.0,Positive
+208,Lifestyle Lounge,Episode 66,54.2,Lifestyle,60.92,Thursday,Night,44.92,1.0,Positive
+209,Vinyl Vibes,Episode 16,92.13,Music,73.97,Thursday,Morning,42.47,3.0,Negative
+210,Comedy Corner,Episode 27,93.11,Business,70.5,Friday,Night,25.04,0.0,Neutral
+211,Market Watch,Episode 52,84.54,Education,54.45,Thursday,Night,7.79,0.0,Positive
+212,Vinyl Vibes,Episode 18,56.6,Music,47.33,Sunday,Night,,1.0,Positive
+213,Career Compass,Episode 23,67.35,Business,40.09,Saturday,Afternoon,96.82,0.0,Negative
+214,Unsolved Tales,Episode 21,96.49,True Crime,69.95,Saturday,Evening,80.09,,Negative
+215,News Roundup,Episode 81,84.73,News,98.97,Sunday,Afternoon,59.45,2.0,Positive
+216,World Watch,Episode 28,72.29,Sports,59.94,Tuesday,Morning,80.11,0.0,Positive
+217,Cold Case Files,Episode 51,76.35,True Crime,76.02,Tuesday,Morning,53.3,3.0,Neutral
+218,True Crime Tonight,Episode 73,100.28,True Crime,83.97,Sunday,Evening,12.06,1.0,Neutral
+219,Mind & Body,Episode 69,54.83,Health,56.73,Tuesday,Morning,0.0,3.0,Neutral
+220,Joke Junction,Episode 22,35.25,News,15.34,Saturday,Afternoon,83.07,0.0,Positive
+221,History Hour,Episode 95,55.43,Education,42.77,Wednesday,Afternoon,23.0,0.0,Positive
+222,Vinyl Vibes,Episode 11,120.0,Music,81.27,Friday,Afternoon,75.31,2.0,Neutral
+223,Learning Lab,Episode 92,41.97,Education,53.72,Wednesday,Morning,,0.0,Positive
+224,Music Matters,Episode 93,,Music,83.88,Friday,Evening,65.59,1.0,Negative
+225,Wellness Wave,Episode 65,32.86,Health,38.42,Wednesday,Night,51.28,0.0,Positive
+226,Study Sessions,Episode 68,66.88,Education,70.8,Monday,Morning,,3.0,Neutral
+227,Fashion Forward,Episode 82,85.92,Lifestyle,40.93,Tuesday,Evening,57.58,1.0,Positive
+228,Business Insights,Episode 27,54.58,Business,42.14,Saturday,Night,,2.0,Negative
+229,True Crime Tonight,Episode 49,46.8,True Crime,73.81,Wednesday,Morning,78.01,0.0,Negative
+230,Learning Lab,Episode 46,78.26,Education,72.79,Tuesday,Afternoon,84.96,1.0,Negative
+231,Daily Digest,Episode 53,34.69,News,26.55,Saturday,Evening,61.96,0.0,Neutral
+232,Lifestyle Lounge,Episode 17,98.51,Lifestyle,75.32,Friday,Night,37.61,0.0,Positive
+233,Pitch Perfect,Episode 94,48.18,Sports,60.46,Wednesday,Afternoon,,0.0,Negative
+234,Daily Digest,Episode 55,,Comedy,74.15,Friday,Afternoon,65.06,1.0,Neutral
+235,News Roundup,Episode 4,48.22,News,75.99,Monday,Afternoon,38.12,2.0,Positive
+236,Sleep Society,Episode 87,62.22,Health,63.77,Monday,Evening,41.96,3.0,Neutral
+237,Health Hour,Episode 38,61.62,Health,81.74,Monday,Evening,,3.0,Positive
+238,Byte Size,Episode 99,95.3,Technology,48.74,Sunday,Night,65.24,2.0,Neutral
+239,Cold Case Files,Episode 44,83.42,Music,80.14,Tuesday,Morning,106.39,2.0,Neutral
+240,Lifestyle Lounge,Episode 70,,Lifestyle,8.76,Tuesday,Morning,51.66,0.0,Negative
+241,Home Harmony,Episode 15,,Lifestyle,55.27,Saturday,Morning,20.71,3.0,Neutral
+242,Mystery Matters,Episode 84,30.38,True Crime,44.37,Wednesday,Afternoon,77.98,0.0,Positive
+243,Wellness Wave,Episode 24,40.57,Health,59.91,Tuesday,Afternoon,98.07,1.0,Positive
+244,Code Corner,Episode 80,97.15,Technology,91.33,Tuesday,Afternoon,58.73,2.0,Positive
+245,Tune Town,Episode 64,70.46,Music,90.55,Saturday,Afternoon,3.33,1.0,Positive
+246,Startup Stories,Episode 51,98.46,Health,82.29,Saturday,Night,25.23,0.0,Neutral
+247,Daily Digest,Episode 92,41.85,News,61.65,Thursday,Night,63.16,1.0,Neutral
+248,Tune Town,Episode 19,57.07,Technology,16.04,Wednesday,Night,110.94,2.0,Negative
+249,Lifestyle Lounge,Episode 53,52.17,Lifestyle,66.2,Monday,Morning,,1.0,Positive
+250,Giggle Garage,Episode 27,19.07,Comedy,64.3,Wednesday,Morning,80.46,1.0,Neutral
+251,Fitness First,Episode 36,101.6,Health,47.46,Friday,Morning,,3.0,Negative
+252,Market Watch,Episode 87,32.8,Business,47.42,Monday,Afternoon,,1.0,Neutral
+253,Mystery Matters,Episode 4,28.11,True Crime,98.15,Thursday,Afternoon,,2.0,Neutral
+254,Learning Lab,Episode 51,74.25,Education,85.43,Thursday,Afternoon,43.84,1.0,Negative
+255,Mind & Body,Episode 96,96.3,Health,48.58,Friday,Morning,,1.0,Neutral
+256,Byte Size,Episode 7,89.52,Technology,78.51,Sunday,Afternoon,66.05,0.0,Neutral
+257,Sleep Society,Episode 97,80.72,News,70.13,Thursday,Night,62.74,2.0,Negative
+258,Mystery Matters,Episode 64,111.02,Education,57.09,Friday,Afternoon,45.97,0.0,Neutral
+259,True Crime Tonight,Episode 3,47.39,Business,42.44,Sunday,Afternoon,54.73,0.0,Neutral
+260,Style Guide,Episode 90,14.9,Lifestyle,61.39,Saturday,Evening,79.99,1.0,Neutral
+261,Unsolved Tales,Episode 48,81.82,True Crime,53.99,Sunday,Night,5.82,2.0,Neutral
+262,Future Forward,Episode 73,54.74,Technology,15.74,Friday,Evening,49.7,2.0,Negative
+263,Fashion Forward,Episode 92,84.19,Lifestyle,57.72,Saturday,Morning,18.34,0.0,Positive
+264,Current Affairs,Episode 88,120.0,News,97.24,Saturday,Evening,68.93,0.0,Neutral
+265,Giggle Garage,Episode 99,,Sports,31.14,Friday,Afternoon,0.0,0.0,Positive
+266,Mind & Body,Episode 59,,Health,71.57,Thursday,Morning,,0.0,Positive
+267,Business Insights,Episode 79,48.77,Education,77.52,Wednesday,Evening,44.19,0.0,Negative
+268,Fitness First,Episode 50,98.78,Sports,46.32,Wednesday,Night,35.77,0.0,Negative
+269,Byte Size,Episode 7,97.72,Technology,74.03,Saturday,Night,76.21,1.0,Positive
+270,Sports Weekly,Episode 38,90.11,Sports,106.4,Saturday,Afternoon,86.94,0.0,Neutral
+271,Brain Boost,Episode 54,73.68,Business,68.94,Tuesday,Night,80.73,2.0,Negative
+272,Learning Lab,Episode 9,38.89,True Crime,62.69,Friday,Afternoon,52.77,1.0,Neutral
+273,Tech Trends,Episode 65,,Technology,59.67,Tuesday,Night,108.87,0.0,Positive
+274,Gadget Geeks,Episode 86,104.25,Technology,82.81,Saturday,Evening,,2.0,Negative
+275,Game Day,Episode 18,45.27,Sports,69.33,Tuesday,Evening,76.72,0.0,Neutral
+276,Comedy Corner,Episode 77,85.18,Comedy,72.34,Monday,Afternoon,,2.0,Neutral
+277,Career Compass,Episode 2,,Business,44.92,Tuesday,Night,14.84,0.0,Neutral
+278,Dark Corners,Episode 5,86.79,Technology,49.24,Wednesday,Evening,,2.0,Negative
+279,Business Insights,Episode 74,84.81,Business,79.61,Wednesday,Evening,39.87,1.0,Negative
+280,Byte Size,Episode 53,71.66,Technology,110.61,Tuesday,Afternoon,66.34,0.0,Neutral
+281,Mind & Body,Episode 11,89.12,Health,87.94,Monday,Morning,91.13,0.0,Positive
+282,Tech Trends,Episode 55,120.0,Technology,77.46,Saturday,Afternoon,83.34,3.0,Neutral
+283,Fashion Forward,Episode 44,44.7,Lifestyle,41.09,Thursday,Evening,83.05,2.0,Negative
+284,Business Insights,Episode 100,46.16,Business,72.14,Monday,Evening,102.85,0.0,Negative
+285,Gadget Geeks,Episode 72,,Technology,45.84,Saturday,Evening,36.36,0.0,Negative
+286,Mystery Matters,Episode 68,36.7,True Crime,88.74,Saturday,Evening,38.64,3.0,Positive
+287,Money Matters,Episode 92,42.02,Business,48.31,Tuesday,Afternoon,84.53,0.0,Negative
+288,Fitness First,Episode 1,,Health,10.51,Monday,Night,76.62,2.0,Positive
+289,Unsolved Tales,Episode 64,66.65,True Crime,118.99,Wednesday,Evening,,1.0,Positive
+290,Unsolved Tales,Episode 57,,Technology,68.68,Wednesday,Morning,30.13,1.0,Positive
+291,Home Harmony,Episode 29,45.16,True Crime,54.91,Sunday,Morning,,0.0,Negative
+292,Game Day,Episode 95,31.11,Sports,70.58,Saturday,Evening,96.78,0.0,Negative
+293,True Crime Tonight,Episode 52,53.08,Comedy,20.73,Thursday,Afternoon,26.62,0.0,Negative
+294,Melody Mix,Episode 41,79.13,Technology,50.92,Friday,Evening,33.73,0.0,Neutral
+295,Career Compass,Episode 46,79.0,Business,37.15,Thursday,Morning,34.7,3.0,Neutral
+296,Brain Boost,Episode 62,68.14,True Crime,37.35,Wednesday,Night,0.0,0.0,Positive
+297,World Watch,Episode 3,81.68,News,41.18,Wednesday,Night,92.87,1.0,Negative
+298,Cold Case Files,Episode 55,56.12,True Crime,76.38,Saturday,Night,76.32,3.0,Negative
+299,Business Insights,Episode 92,62.7,Business,63.17,Thursday,Morning,28.62,3.0,Neutral
+300,Sports Weekly,Episode 75,42.28,Health,58.0,Saturday,Night,63.2,0.0,Neutral
+301,Life Lessons,Episode 65,69.56,Lifestyle,44.4,Sunday,Afternoon,69.25,0.0,Neutral
+302,Learning Lab,Episode 24,54.9,True Crime,48.45,Tuesday,Morning,53.46,3.0,Positive
+303,World Watch,Episode 20,14.97,News,47.82,Tuesday,Afternoon,16.81,1.0,Negative
+304,Code Corner,Episode 57,65.72,Education,66.52,Thursday,Morning,,2.0,Neutral
+305,Startup Stories,Episode 15,120.0,Business,73.64,Friday,Morning,50.33,2.0,Negative
+306,Music Matters,Episode 33,18.01,Sports,60.85,Saturday,Afternoon,83.44,0.0,Positive
+307,Byte Size,Episode 62,66.95,Technology,56.98,Saturday,Night,17.81,0.0,Neutral
+308,Current Affairs,Episode 71,11.29,News,77.92,Wednesday,Evening,,3.0,Neutral
+309,Fashion Forward,Episode 15,111.77,Lifestyle,80.53,Friday,Morning,,3.0,Positive
+310,Home Harmony,Episode 61,,Lifestyle,50.58,Sunday,Night,8.37,3.0,Neutral
+311,Fitness First,Episode 93,97.31,Health,53.82,Tuesday,Afternoon,,2.0,Negative
+312,Joke Junction,Episode 66,109.54,Comedy,76.03,Saturday,Afternoon,27.4,1.0,Negative
+313,Sleep Society,Episode 2,59.62,Health,91.95,Saturday,Evening,65.09,0.0,Positive
+314,Dark Corners,Episode 26,44.16,True Crime,80.86,Wednesday,Afternoon,16.45,0.0,Positive
+315,Music Matters,Episode 92,24.19,Technology,73.73,Sunday,Morning,,0.0,Neutral
+316,Current Affairs,Episode 83,63.21,News,68.24,Saturday,Night,117.92,0.0,Negative
+317,Game Day,Episode 99,91.86,Sports,34.26,Thursday,Afternoon,52.87,0.0,Negative
+318,Current Affairs,Episode 34,78.18,Business,38.97,Wednesday,Evening,92.47,0.0,Negative
+319,Fashion Forward,Episode 79,57.92,Lifestyle,63.83,Wednesday,Evening,95.73,2.0,Negative
+320,Sports Weekly,Episode 78,115.6,Sports,51.98,Friday,Evening,40.9,1.0,Neutral
+321,Sport Spot,Episode 1,26.39,Sports,69.96,Sunday,Evening,73.49,2.0,Negative
+322,Laugh Line,Episode 17,39.95,Music,68.6,Tuesday,Afternoon,47.04,2.0,Negative
+323,Unsolved Tales,Episode 8,93.08,True Crime,79.95,Saturday,Afternoon,41.52,1.0,Neutral
+324,Startup Stories,Episode 35,7.73,Music,37.86,Wednesday,Night,,1.0,Neutral
+325,Dark Corners,Episode 43,26.33,Sports,64.09,Saturday,Night,60.2,0.0,Negative
+326,Tech Trends,Episode 94,60.86,Business,21.67,Thursday,Morning,,2.0,Positive
+327,Funny Folks,Episode 75,83.04,Comedy,51.16,Tuesday,Morning,43.0,3.0,Neutral
+328,Vinyl Vibes,Episode 13,83.23,Music,82.31,Tuesday,Morning,66.99,0.0,Positive
+329,Study Sessions,Episode 23,100.6,Business,37.52,Tuesday,Afternoon,80.42,2.0,Negative
+330,Career Compass,Episode 11,80.81,News,55.07,Saturday,Afternoon,57.28,1.0,Positive
+331,Sports Weekly,Episode 77,36.48,Business,32.72,Sunday,Night,71.31,3.0,Neutral
+332,Mystery Matters,Episode 32,,True Crime,64.75,Wednesday,Night,0.0,1.0,Negative
+333,Laugh Line,Episode 54,51.02,Comedy,106.36,Wednesday,Afternoon,64.77,3.0,Negative
+334,Learning Lab,Episode 13,89.25,Education,29.59,Saturday,Evening,0.0,1.0,Positive
+335,World Watch,Episode 70,85.91,News,50.42,Wednesday,Night,34.2,3.0,Positive
+336,Music Matters,Episode 44,51.5,Technology,73.79,Thursday,Evening,58.46,3.0,Negative
+337,Market Watch,Episode 87,14.54,Business,84.23,Tuesday,Night,42.82,3.0,Negative
+338,Startup Stories,Episode 3,70.33,Business,68.97,Saturday,Morning,15.06,1.0,Neutral
+339,Startup Stories,Episode 79,19.64,Business,78.8,Wednesday,Evening,65.4,1.0,Neutral
+340,Byte Size,Episode 87,32.55,Technology,39.6,Wednesday,Night,81.91,1.0,Neutral
+341,Health Hour,Episode 79,69.37,Health,63.34,Wednesday,Night,39.81,2.0,Positive
+342,Mystery Matters,Episode 92,72.19,True Crime,53.31,Thursday,Night,72.6,2.0,Neutral
+343,Funny Folks,Episode 24,41.87,Comedy,37.59,Monday,Evening,97.54,3.0,Neutral
+344,Career Compass,Episode 2,65.01,Business,56.2,Thursday,Morning,35.25,2.0,Neutral
+345,Future Forward,Episode 67,74.73,Technology,41.16,Thursday,Afternoon,30.92,1.0,Neutral
+346,Current Affairs,Episode 51,117.03,News,35.05,Saturday,Morning,102.99,2.0,Positive
+347,Cold Case Files,Episode 95,86.76,Music,63.13,Sunday,Afternoon,95.24,1.0,Neutral
+348,Startup Stories,Episode 44,42.41,Business,102.93,Sunday,Evening,,3.0,Positive
+349,History Hour,Episode 8,50.79,Education,29.17,Wednesday,Night,6.56,2.0,Positive
+350,History Hour,Episode 38,73.75,Education,31.67,Thursday,Evening,118.51,3.0,Neutral
+351,Silicon Stories,Episode 8,89.11,Technology,64.89,Thursday,Evening,,2.0,Neutral
+352,Career Compass,Episode 86,63.97,Business,22.8,Thursday,Night,72.76,2.0,Neutral
+353,Education Station,Episode 69,,Education,41.13,Friday,Evening,,2.0,Neutral
+354,Giggle Garage,Episode 79,107.46,Comedy,70.64,Thursday,Evening,43.13,2.0,Negative
+355,Future Forward,Episode 83,65.52,Technology,44.45,Tuesday,Night,13.48,3.0,Neutral
+356,World Watch,Episode 86,5.0,Education,58.27,Tuesday,Morning,20.33,1.0,Neutral
+357,Lifestyle Lounge,Episode 18,120.0,Lifestyle,96.45,Monday,Morning,29.46,1.0,Negative
+358,Music Matters,Episode 99,54.47,Music,72.79,Wednesday,Night,30.19,0.0,Neutral
+359,Current Affairs,Episode 99,50.42,News,26.64,Saturday,Night,15.06,3.0,Neutral
+360,Tech Trends,Episode 69,75.34,Technology,45.1,Tuesday,Afternoon,45.09,1.0,Neutral
+361,Melody Mix,Episode 99,67.99,Music,98.94,Saturday,Morning,76.41,3.0,Neutral
+362,Startup Stories,Episode 38,89.55,Business,56.73,Saturday,Night,,0.0,Positive
+363,Funny Folks,Episode 13,67.4,Comedy,28.31,Friday,Evening,53.53,1.0,Neutral
+364,Cold Case Files,Episode 38,84.61,True Crime,70.47,Thursday,Morning,101.16,0.0,Neutral
+365,Current Affairs,Episode 28,41.47,Sports,70.96,Sunday,Morning,0.0,3.0,Neutral
+366,Dark Corners,Episode 65,5.0,True Crime,101.37,Sunday,Morning,,0.0,Positive
+367,Giggle Garage,Episode 26,75.96,Technology,69.24,Saturday,Night,,1.0,Negative
+368,Home Harmony,Episode 63,33.26,Lifestyle,78.23,Friday,Night,56.53,2.0,Negative
+369,Tech Trends,Episode 45,17.48,Health,89.26,Wednesday,Morning,0.0,0.0,Neutral
+370,Funny Folks,Episode 19,69.23,Music,22.58,Wednesday,Evening,,2.0,Positive
+371,Funny Folks,Episode 37,68.45,Lifestyle,56.22,Tuesday,Evening,,2.0,Negative
+372,Pitch Perfect,Episode 72,79.18,Lifestyle,53.46,Tuesday,Evening,38.22,0.0,Negative
+373,Silicon Stories,Episode 81,96.44,Business,56.75,Friday,Night,65.01,3.0,Negative
+374,Career Compass,Episode 14,59.05,Education,54.73,Sunday,Afternoon,41.01,3.0,Neutral
+375,Business Insights,Episode 65,16.23,Business,48.78,Monday,Night,21.96,3.0,Negative
+376,Giggle Garage,Episode 52,87.93,True Crime,80.04,Monday,Afternoon,30.51,0.0,Neutral
+377,Money Matters,Episode 12,82.96,News,47.81,Tuesday,Morning,17.81,2.0,Neutral
+378,Sleep Society,Episode 85,32.58,Health,89.67,Monday,Morning,48.65,,Negative
+379,Brain Boost,Episode 82,120.0,Education,36.56,Monday,Afternoon,72.33,0.0,Negative
+380,Healthy Living,Episode 71,40.24,Health,44.72,Sunday,Afternoon,42.77,1.0,Positive
+381,Laugh Line,Episode 26,94.94,Comedy,7.75,Saturday,Afternoon,62.9,3.0,Positive
+382,True Crime Tonight,Episode 64,85.72,True Crime,24.07,Friday,Evening,,2.0,Negative
+383,Style Guide,Episode 53,34.52,Lifestyle,103.02,Sunday,Morning,53.9,1.0,Neutral
+384,Comedy Corner,Episode 77,50.24,Comedy,30.86,Thursday,Night,54.8,0.0,Negative
+385,True Crime Tonight,Episode 76,83.02,True Crime,61.17,Tuesday,Evening,5.01,3.0,Neutral
+386,Comedy Corner,Episode 55,96.15,Comedy,74.61,Friday,Morning,,2.0,Negative
+387,Style Guide,Episode 78,43.76,Sports,68.57,Saturday,Afternoon,88.86,3.0,Positive
+388,Current Affairs,Episode 5,45.36,Health,91.3,Monday,Morning,29.84,2.0,Positive
+389,Game Day,Episode 30,26.46,Music,113.62,Wednesday,Evening,33.6,1.0,Positive
+390,Game Day,Episode 62,103.39,Sports,53.81,Saturday,Afternoon,39.93,0.0,Negative
+391,Unsolved Tales,Episode 20,91.56,True Crime,51.89,Tuesday,Night,12.22,0.0,Positive
+392,Business Insights,Episode 48,61.32,Business,83.18,Friday,Morning,,0.0,Positive
+393,Healthy Living,Episode 62,26.17,Health,43.6,Wednesday,Evening,37.64,1.0,Neutral
+394,World Watch,Episode 10,59.62,News,20.53,Wednesday,Morning,7.12,0.0,Negative
+395,Silicon Stories,Episode 11,64.61,Technology,66.18,Monday,Afternoon,27.0,0.0,Negative
+396,Vinyl Vibes,Episode 90,79.09,Music,43.35,Monday,Afternoon,,3.0,Positive
+397,Code Corner,Episode 47,10.43,Technology,47.94,Saturday,Evening,44.69,3.0,Negative
+398,Current Affairs,Episode 11,86.0,News,43.98,Sunday,Afternoon,34.23,1.0,Neutral
+399,Game Day,Episode 13,56.39,Sports,52.96,Friday,Night,46.0,2.0,Negative
+400,Vinyl Vibes,Episode 39,94.14,Music,65.05,Thursday,Morning,97.58,1.0,Neutral
+401,Fashion Forward,Episode 5,,Lifestyle,37.21,Thursday,Night,72.68,2.0,Neutral
+402,Joke Junction,Episode 36,34.06,Sports,119.0,Sunday,Night,4.26,2.0,Neutral
+403,Mind & Body,Episode 53,64.72,Health,5.96,Saturday,Evening,61.9,1.0,Negative
+404,Music Matters,Episode 30,50.09,Health,89.51,Sunday,Afternoon,61.28,1.0,Neutral
+405,Vinyl Vibes,Episode 69,70.32,Music,51.8,Wednesday,Night,9.09,0.0,Neutral
+406,Silicon Stories,Episode 25,,Sports,42.16,Thursday,Night,81.5,1.0,Neutral
+407,Tech Trends,Episode 90,50.88,Technology,53.48,Saturday,Night,49.82,2.0,Neutral
+408,Pitch Perfect,Episode 57,50.09,Sports,81.62,Thursday,Night,,1.0,Positive
+409,Game Day,Episode 55,,Sports,49.9,Saturday,Morning,49.5,1.0,Neutral
+410,Funny Folks,Episode 50,,Comedy,55.89,Tuesday,Evening,17.07,0.0,Neutral
+411,Vinyl Vibes,Episode 1,120.0,True Crime,53.21,Thursday,Morning,68.1,3.0,Negative
+412,Learning Lab,Episode 47,52.14,Education,38.77,Thursday,Morning,37.26,1.0,Neutral
+413,Sleep Society,Episode 98,77.56,Education,84.29,Thursday,Evening,30.82,2.0,Negative
+414,Health Hour,Episode 81,52.62,Health,73.98,Sunday,Morning,28.85,0.0,Positive
+415,Tune Town,Episode 87,5.0,Business,63.54,Thursday,Morning,56.27,2.0,Neutral
+416,Home Harmony,Episode 25,35.53,Lifestyle,82.35,Sunday,Afternoon,59.3,1.0,Negative
+417,Home Harmony,Episode 76,113.13,Lifestyle,80.41,Friday,Evening,26.4,1.0,Positive
+418,News Roundup,Episode 20,120.0,Business,65.91,Monday,Night,0.0,0.0,Positive
+419,Health Hour,Episode 46,,Health,53.56,Monday,Afternoon,31.82,2.0,Negative
+420,Future Forward,Episode 69,39.77,News,58.67,Tuesday,Evening,40.06,3.0,Negative
+421,Mind & Body,Episode 23,,Health,71.56,Tuesday,Night,56.2,2.0,Negative
+422,Business Insights,Episode 65,36.83,Business,86.57,Thursday,Morning,42.98,1.0,Negative
+423,Tech Trends,Episode 9,73.46,Technology,59.32,Sunday,Night,58.06,0.0,Negative
+424,Business Insights,Episode 52,65.25,Health,75.58,Saturday,Afternoon,78.59,3.0,Negative
+425,Melody Mix,Episode 81,41.63,Business,73.24,Friday,Afternoon,32.76,3.0,Positive
+426,Vinyl Vibes,Episode 47,82.76,Music,24.6,Wednesday,Night,40.5,2.0,Positive
+427,Dark Corners,Episode 28,,True Crime,28.8,Sunday,Afternoon,,0.0,Negative
+428,Learning Lab,Episode 64,117.25,Education,90.67,Thursday,Afternoon,35.54,3.0,Positive
+429,Health Hour,Episode 71,98.78,Health,50.87,Sunday,Morning,61.25,2.0,Positive
+430,Education Station,Episode 48,67.31,True Crime,38.24,Wednesday,Afternoon,,1.0,Negative
+431,Money Matters,Episode 91,26.18,Business,92.89,Monday,Night,95.01,3.0,Negative
+432,Future Forward,Episode 31,35.44,Lifestyle,27.38,Tuesday,Afternoon,66.15,2.0,Negative
+433,Fashion Forward,Episode 52,96.69,Lifestyle,87.47,Monday,Morning,48.18,2.0,Neutral
+434,Fashion Forward,Episode 99,88.98,Lifestyle,74.68,Monday,Morning,13.58,0.0,Positive
+435,Health Hour,Episode 20,31.1,News,65.36,Thursday,Morning,82.7,2.0,Negative
+436,Education Station,Episode 47,66.52,Education,37.75,Tuesday,Morning,42.18,0.0,Negative
+437,Startup Stories,Episode 82,41.84,Business,76.49,Thursday,Night,53.16,0.0,Negative
+438,Sports Weekly,Episode 16,30.74,Sports,41.43,Saturday,Evening,119.0,0.0,Neutral
+439,Fitness First,Episode 31,13.61,Health,71.45,Wednesday,Morning,42.33,0.0,Negative
+440,Music Matters,Episode 86,60.77,Music,63.45,Sunday,Evening,69.09,1.0,Neutral
+441,Business Insights,Episode 95,63.33,Business,63.96,Saturday,Night,,2.0,Neutral
+442,Sports Weekly,Episode 30,52.96,Sports,37.22,Sunday,Night,80.79,0.0,Positive
+443,Sport Spot,Episode 23,,Sports,28.65,Friday,Afternoon,,3.0,Positive
+444,Gadget Geeks,Episode 95,73.35,Technology,53.28,Tuesday,Evening,82.28,1.0,Negative
+445,Fitness First,Episode 49,,Health,72.48,Tuesday,Morning,20.84,0.0,Negative
+446,Joke Junction,Episode 36,85.44,Comedy,50.21,Wednesday,Night,66.6,3.0,Neutral
+447,Daily Digest,Episode 22,71.37,News,24.94,Tuesday,Morning,59.85,1.0,Negative
+448,Pitch Perfect,Episode 85,,Comedy,68.3,Sunday,Morning,66.03,0.0,Neutral
+449,Silicon Stories,Episode 61,92.0,Technology,61.42,Saturday,Evening,7.68,2.0,Neutral
+450,Tech Trends,Episode 85,42.45,Technology,60.46,Monday,Morning,,2.0,Negative
+451,Byte Size,Episode 76,43.96,Comedy,56.91,Sunday,Evening,60.87,1.0,Positive
+452,Career Compass,Episode 27,,True Crime,29.22,Wednesday,Night,75.14,1.0,Negative
+453,Game Day,Episode 67,87.0,Sports,42.55,Saturday,Night,,2.0,Negative
+454,Joke Junction,Episode 66,59.32,Comedy,55.71,Sunday,Morning,,1.0,Neutral
+455,Health Hour,Episode 41,68.35,Health,76.65,Wednesday,Morning,9.26,3.0,Positive
+456,Brain Boost,Episode 58,,Education,64.46,Wednesday,Afternoon,103.96,2.0,Negative
+457,News Roundup,Episode 65,55.24,News,63.01,Monday,Afternoon,33.59,1.0,Negative
+458,True Crime Tonight,Episode 54,72.63,True Crime,107.5,Monday,Morning,89.94,0.0,Neutral
+459,Byte Size,Episode 81,71.54,Technology,65.77,Friday,Night,94.56,1.0,Positive
+460,Brain Boost,Episode 9,14.71,Education,41.03,Monday,Morning,77.36,0.0,Neutral
+461,Study Sessions,Episode 22,103.99,Lifestyle,63.69,Thursday,Evening,86.97,1.0,Positive
+462,Laugh Line,Episode 43,108.43,Comedy,1.0,Tuesday,Evening,,1.0,Negative
+463,Mystery Matters,Episode 85,69.55,News,57.48,Friday,Morning,,1.0,Negative
+464,Joke Junction,Episode 94,96.08,Health,54.29,Monday,Evening,75.47,0.0,Positive
+465,Silicon Stories,Episode 25,69.33,Technology,22.86,Thursday,Evening,37.66,1.0,Positive
+466,Funny Folks,Episode 6,88.94,Education,23.37,Friday,Morning,32.59,1.0,Neutral
+467,Sleep Society,Episode 95,95.23,Health,75.8,Sunday,Afternoon,41.75,1.0,Positive
+468,Education Station,Episode 26,52.98,Education,52.25,Monday,Evening,1.41,3.0,Negative
+469,Learning Lab,Episode 73,79.41,Lifestyle,46.25,Tuesday,Night,70.6,1.0,Neutral
+470,Laugh Line,Episode 78,106.84,Comedy,72.16,Monday,Night,,3.0,Negative
+471,Brain Boost,Episode 6,98.15,Sports,65.31,Friday,Afternoon,,1.0,Negative
+472,Laugh Line,Episode 71,111.52,Comedy,76.32,Monday,Night,65.09,3.0,Neutral
+473,Code Corner,Episode 50,109.3,Technology,45.48,Tuesday,Morning,100.93,3.0,Positive
+474,Pitch Perfect,Episode 58,83.78,Sports,61.8,Wednesday,Afternoon,80.85,0.0,Negative
+475,Tune Town,Episode 62,,Music,106.47,Monday,Afternoon,67.66,0.0,Neutral
+476,Dark Corners,Episode 14,84.36,True Crime,68.44,Wednesday,Night,88.2,0.0,Negative
+477,Code Corner,Episode 99,,Technology,51.64,Sunday,Evening,15.65,1.0,Negative
+478,Tech Trends,Episode 99,91.78,News,77.21,Thursday,Afternoon,,1.0,Negative
+479,Laugh Line,Episode 24,48.61,Health,74.13,Tuesday,Afternoon,,0.0,Negative
+480,Fitness First,Episode 80,88.65,Comedy,103.45,Saturday,Night,21.08,1.0,Neutral
+481,Sleep Society,Episode 2,49.62,Lifestyle,54.67,Monday,Morning,19.97,3.0,Negative
+482,Lifestyle Lounge,Episode 48,87.97,Business,65.24,Thursday,Afternoon,76.11,1.0,Negative
+483,Unsolved Tales,Episode 91,120.0,True Crime,79.84,Sunday,Morning,59.9,1.0,Positive
+484,Cold Case Files,Episode 14,37.63,True Crime,69.29,Monday,Night,40.17,2.0,Negative
+485,Game Day,Episode 14,54.07,Sports,51.61,Tuesday,Afternoon,0.0,1.0,Positive
+486,Healthy Living,Episode 80,68.17,Health,88.64,Saturday,Morning,50.8,1.0,Positive
+487,Fitness First,Episode 49,,Health,11.58,Friday,Afternoon,67.84,1.0,Neutral
+488,Sport Spot,Episode 68,120.0,Sports,61.28,Sunday,Morning,,3.0,Negative
+489,World Watch,Episode 19,80.53,Comedy,66.35,Friday,Afternoon,36.38,0.0,Neutral
+490,Pitch Perfect,Episode 81,69.19,Sports,30.22,Sunday,Morning,,0.0,Negative
+491,Joke Junction,Episode 77,61.28,Comedy,68.89,Wednesday,Morning,82.99,3.0,Neutral
+492,Sports Weekly,Episode 79,10.11,Business,51.66,Thursday,Afternoon,53.39,0.0,Positive
+493,Gadget Geeks,Episode 86,65.65,Technology,41.94,Monday,Night,41.22,0.0,Positive
+494,News Roundup,Episode 75,70.25,News,49.69,Friday,Afternoon,20.62,2.0,Neutral
+495,Career Compass,Episode 62,106.94,Business,99.59,Sunday,Night,104.63,1.0,Negative
+496,Tech Trends,Episode 95,5.0,Technology,71.3,Monday,Afternoon,34.31,2.0,Negative
+497,Code Corner,Episode 27,63.1,Technology,10.39,Monday,Afternoon,76.93,3.0,Positive
+498,Future Forward,Episode 53,72.09,Technology,68.75,Monday,Night,80.14,0.0,Positive
+499,History Hour,Episode 23,,Education,60.95,Saturday,Afternoon,43.96,2.0,Neutral
